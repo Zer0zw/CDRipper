@@ -1,0 +1,6 @@
+networkx==3.1
+func-timeout==4.3.5
+py-solc-x==2.0.2
+crytic-compile==0.3.5
+slither-analyzer==0.9.6
+solc-select==1.0.4

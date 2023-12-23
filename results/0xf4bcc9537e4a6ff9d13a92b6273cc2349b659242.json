@@ -1,0 +1,32 @@
+{
+    "Mint Function with Single Signature": {
+        "risk_mint": true,
+        "Mint Function": [
+            "YFK/supply"
+        ]
+    },
+    "Critical Variables Manipulation with Single Signature": {
+        "risk_crivar": false,
+        "Crivar Function": []
+    },
+    "Selfdestruct with Single Signature": {
+        "risk_selfdestruct": false,
+        "Selfdestruct Function": []
+    },
+    "Management without Timelock": {
+        "risk_timelock": true,
+        "Management Function": []
+    },
+    "Single Proxy Admin": {
+        "risk_proxy": false,
+        "Proxy Contracts": []
+    },
+    "Initial Token Distribution": {
+        "risk_token": false,
+        "Token Contract": []
+    },
+    "Indivitual Contract Output Reliance": {
+        "risk_relyoutput": false,
+        "Rely Output Function": []
+    }
+}
