@@ -1,6 +1,6 @@
 # [CDRipper, Definition and Detection of Centralization Defects in Smart Contracts]
 
-**CDRipper** is a Solidity static analysis framework written in Python3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.
+**CDRipper** is a smart contracts centralization defects detector written in Python3.
 
 
 ## Install
